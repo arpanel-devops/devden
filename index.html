@@ -2145,7 +2145,7 @@
         </div>
         <form class="register-form reveal" onsubmit="handleSubmit(event)">
 
-          <div class="form-submit"><button type="submit" class="btn-primary"
+          <div class="form-submit"><button type="submit"  class="btn-primary"
               style="font-size:.85rem;letter-spacing:.35em">Light the Torch — Register</button></div>
         </form>
       </section>
@@ -2273,7 +2273,21 @@
     window.addEventListener('scroll', () => { const n = document.querySelector('nav'); if (window.scrollY > 80) { n.style.background = 'rgba(0,0,0,.92)'; n.style.backdropFilter = 'blur(8px)'; n.style.borderBottom = '1px solid rgba(150,30,0,.2)' } else { n.style.background = 'linear-gradient(to bottom,rgba(0,0,0,.85) 0%,transparent 100%)'; n.style.backdropFilter = 'blur(2px)'; n.style.borderBottom = 'none' } });
 
     // Form
-    function handleSubmit(e) { e.preventDefault(); const b = e.target.querySelector('button'); b.textContent = '🔥 Registered! The fire is lit.'; b.style.background = '#660000'; b.style.cursor = 'default'; b.disabled = true }
+    function handleSubmit(e) {
+  e.preventDefault();
+  const b = e.target.querySelector('button');
+  
+  // Your existing visual feedback
+  b.textContent = '🔥 Registered! The fire is lit.';
+  b.style.background = '#660000';
+  b.style.cursor = 'default';
+  b.disabled = true;
+
+  // The Redirect logic
+  setTimeout(() => {
+    window.location.href = "https://unstop.com/o/SvmEu1o?lb=eO1D2rtv&utm_medium=Share&utm_source=sajalyad95767&utm_campaign=Online_coding_challenge";
+  }, 1500); // 1500ms = 1.5 seconds
+}
   </script>
 </body>
 
