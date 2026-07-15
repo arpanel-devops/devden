@@ -1,31 +1,33 @@
 <div align="center">
 
 
+
 # ARPANEL FRANKLIN
 
-</div>
+
 
 <br>
 
 | Feld / Field | Angabe / Entry |
 |---|---|
 | Name | Arpanel Franklin |
-| Rolle / Role | Backend Engineer · DevOps · Platform Engineering |
-| Institution | Bennett University, Greater Noida, India |
-| Studiengang / Program | B.Tech Computer Science Engineering |
-| Standort / Location | Greater Noida, India |
-| Nebentätigkeit / Other Role | Co-Founder & CTO — Helpify |
+| Role / Rolle | Backend • DevOps • Cloud Infrastructure |
+| Currently Building | Production-grade Cloud Native Systems |
+| Interests / Interessen| Platform Engineering • Kubernetes • GitOps |
+| Current Project / Aktuelles Projekt | Air Pollution Analytics Platform |
+| Other Role / Nebentätigkeit | CTO — Hive • Tech Head - DevOps Club|
 | Offen für / Open to | Open Source · DevOps · Cloud Infrastructure |
 
 <br>
+</div>
 
 ---
 
 ## 01 — Über mich / About
 
-Ich baue produktionsnahe Backend-Systeme und Cloud-native Infrastruktur mit Kubernetes, GitOps und Infrastructure as Code. *(I build production-inspired backend systems and cloud-native infrastructure using Kubernetes, GitOps, and Infrastructure as Code.)*
+I build backend systems and cloud native infrastructure using Kubernetes, GitOps and Infrastructure as Code. *(Ich baue produktionsnahe Backend-Systeme und Cloud-native Infrastrukturen mit Kubernetes, GitOps und Infrastructure as Code.)*
 
-Mein Fokus liegt auf Platform Engineering, DevOps, Cloud-Infrastruktur und verteilten Systemen. *(My primary interests are platform engineering, DevOps, cloud infrastructure, and distributed systems.)* I'm currently studying how production-grade platforms are designed, deployed, and scaled in the real world.
+My primary interests are platform engineering, DevOps, cloud infrastructure, and distributed systems. *(Mein Fokus liegt auf Platform Engineering, DevOps, Cloud-Infrastruktur und verteilten Systemen.)* I'm currently building production inspired systems while studying how modern platforms are designed, deployed, secured, observed, and operated at scale.
 
 ---
 
@@ -45,14 +47,14 @@ Mein Fokus liegt auf Platform Engineering, DevOps, Cloud-Infrastruktur und verte
 
 | Projekt / Project | Stack | Beschreibung / Description |
 |---|---|---|
-| **Helpify** | Spring Boot · React · MongoDB Atlas | Peer-to-peer intra-campus delivery platform — leading technical direction and system architecture as co-founder & CTO |
-| **Air Pollution Analytics Platform** | Java · Spring Boot · Kubernetes · ArgoCD | Cloud-native analytics platform featuring Kubernetes orchestration, Jenkins CI/CD, ArgoCD GitOps, security hardening, ETL processing of 23,000+ records, and AWS deployment |
+| **Air Pollution Analytics Platform** | Java · Spring Boot · Kubernetes · ArgoCD | Cloud-native analytics platform featuring Kubernetes orchestration, Jenkins CI/CD, ArgoCD GitOps, security hardening, ETL pipeline processing 23,000+ pollution records, and AWS deployment |
+| **Helpify** | Spring Boot · React · MongoDB Atlas | Peer-to-peer campus super-app enabling student delivery, campus community, real-time task sharing, and secure authentication. — responsible for backend architecture, infrastructure, and technical direction as Co-Founder & CTO |
 | **Multi-Environment Terraform Architecture** | Terraform · AWS | Reusable IaC modules for provisioning isolated dev/staging/prod environments with consistent, repeatable infrastructure |
 | **Terraform–Jenkins Integration** | Terraform · Jenkins | Automated infrastructure provisioning triggered directly from CI pipelines, closing the loop between code and cloud resources |
 
 ---
 
-## 04 — Einblicke / Project Insights
+## 04 — Architektur & Einblicke / Architecture & Insights
 
 <p align="center">
   <img src="assets/screenshots/jenkins-stage-view.png" alt="Jenkins CI Pipeline" width="90%">
@@ -69,7 +71,7 @@ Mein Fokus liegt auf Platform Engineering, DevOps, Cloud-Infrastruktur und verte
   <br><sub>Kubernetes Cluster — Live Resource State</sub>
 </p>
 
-> 📁 Add these images under `assets/screenshots/` in this repository using the filenames above to render them here.
+
 
 ---
 
@@ -81,7 +83,9 @@ Gute Infrastruktur sollte reproduzierbar sein, Deployments automatisiert, und Pr
 
 ---
 
-## 06 — Technologien / Technologies
+## 06 — Werkzeugkasten / Toolbox
+
+<div align="center">
 
 | Kategorie / Category | Werkzeuge / Tools |
 |---|---|
@@ -93,10 +97,11 @@ Gute Infrastruktur sollte reproduzierbar sein, Deployments automatisiert, und Pr
 | Datenbanken / Databases | MongoDB · MySQL |
 | System | Linux · Bash · Nginx · Git |
 
-<p align="left">
+</div>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,nginx,git" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,spring,mongodb,mysql" />
 </p>
 
@@ -123,17 +128,28 @@ Gute Infrastruktur sollte reproduzierbar sein, Deployments automatisiert, und Pr
 
 ---
 
-## 08 — Leitsatz / Guiding Principle
+## 08 — Leitsatz / Personal Motto
 
-> *Auch wenn der Tag noch so voll ist, bleibt immer Platz für eine Tasse Kaffee.*
-> **Even when the day feels full, there's always room for one more cup of coffee.**
+> *Even when the day feels full, there's always room for one more cup of coffee.*
+> **Auch wenn der Tag noch so voll ist, bleibt immer Platz für eine Tasse Kaffee.**
 
 ---
 
-## 09 — Kontakt / Contact
+## 09 - Derzeit im Bau/ Currently Building
+
+- Production-grade Air Pollution Analytics Platform
+- Prometheus + Grafana Monitoring
+- Kubernetes Security Hardening
+- Infrastructure Automation with Terraform & Ansible
+
+---
+
+## 10 — Kontakt / Contact
 
 Offen für Zusammenarbeit in den Bereichen DevOps-Tooling, Infrastrukturautomatisierung, Cloud-native Projekte und Open Source. *(Open to collaborating on DevOps tooling, infrastructure automation, cloud-native projects, and open-source contributions.)*
 
+<div align="center">
+  
 | Kanal / Channel | Verweis / Reference |
 |---|---|
 | E-Mail | [arpanel.devops@gmail.com](mailto:arpanel.devops@gmail.com) |
@@ -144,8 +160,8 @@ Offen für Zusammenarbeit in den Bereichen DevOps-Tooling, Infrastrukturautomati
 
 <br>
 
-<div align="center">
-
-
-
 </div>
+
+## Beyond Engineering
+
+Outside of building infrastructure, I'm learning Deutsch, exploring distributed systems, and always happy to discuss cloud native technologies over a good cup of coffee.
